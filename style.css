@@ -166,12 +166,12 @@ button{
 }
 
 /* Edit Task */
-#incompleteTasks .input-text,
+#incomplete-tasks .input-text,
 #completed-tasks .input-text {
   display: none;
 }
 
-#incompleteTasks .editMode > .input-text,
+#incomplete-tasks .editMode > .input-text,
 #completed-tasks .editMode > .input-text {
   display: inline-block;
   width: 224px;
